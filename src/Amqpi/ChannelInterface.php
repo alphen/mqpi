@@ -10,8 +10,6 @@ interface ChannelInterface
         $autoDecode = true
     );
     
-    public function getConnection() : ConnectionInterface;
-    
     public function wait($allowedMethods = null, $nonBlocking = false, $timeout = 0);
     
     public function publish(
