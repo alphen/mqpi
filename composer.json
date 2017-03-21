@@ -1,5 +1,5 @@
 {
-    "name": "alphen/amqpi",
+    "name": "alphen/mqpi",
     "type": "library",
     "description": "Interface for message queue protocol.",
     "keywords": ["rabbitmq", "message", "queue", "description", "interface"],
