@@ -1,0 +1,15 @@
+{
+    "name": "alphen/amqpi",
+    "type": "library",
+    "description": "Interface for message queue protocol.",
+    "keywords": ["rabbitmq", "message", "queue", "description", "interface"],
+    "homepage": "https://github.com/alphen/amqpi/",
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Amqi\\": "src/Amqi/"
+        }
+    }
+}
