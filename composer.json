@@ -9,7 +9,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Amqi\\": "src/Amqi/"
+            "Mqpi\\": "src/Mqpi/"
         }
     }
 }
