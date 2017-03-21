@@ -1,5 +1,5 @@
 <?php
-namespace Ampi;
+namespace Mqpi;
 
 interface ChannelInterface
 {
